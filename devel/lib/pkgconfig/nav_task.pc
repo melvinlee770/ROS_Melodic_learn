@@ -1,0 +1,8 @@
+prefix=/home/vboxuser/nav_tutorial_ws/devel
+
+Name: nav_task
+Description: Description of nav_task
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

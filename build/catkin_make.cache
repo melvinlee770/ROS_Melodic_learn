@@ -1,0 +1,2 @@
+nav_task
+-DCATKIN_DEVEL_PREFIX=/home/vboxuser/nav_tutorial_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vboxuser/nav_tutorial_ws/install -G Unix Makefiles
