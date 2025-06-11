@@ -45,7 +45,3 @@ We’ve completed multiple guided and self-initiated projects using tools such a
 
 ### Tools
 - Linux (Ubuntu)
-
-## Contact
-
-For any inquiries or collaboration opportunities, please reach out to any team member or connect via our project repository.
